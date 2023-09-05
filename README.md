@@ -5,7 +5,7 @@ Resources for working with Biblical Hebrew.
 ## Books
 
 - _A Grammar for Biblical Hebrew_ by C. L. Seow. Used by FHU's first year Hebrew classes.
-- _Basics of Biblical Hebrew Grammar_ by Pratico and Pelt. Used by Heiratage's Hebrew classes.
+- _Basics of Biblical Hebrew Grammar_ by Pratico and Pelt. Used by HCU's Hebrew classes.
 
 ## Audio
 
