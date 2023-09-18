@@ -14,3 +14,7 @@ Resources for working with Biblical Hebrew.
 
 ## Fonts
 - [Society of Biblical Literature](https://www.sbl-site.org/educational/BiblicalFonts_SBLHebrew.aspx).
+
+## Text
+
+- [hackathon.bible](https://hackathon.bible/data/) has collected many resources for Biblical text.
